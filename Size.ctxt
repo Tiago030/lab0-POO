@@ -1,6 +1,6 @@
 #BlueJ class context
 comment0.target=Size
-comment0.text=\r\n\ Write\ a\ description\ of\ class\ Size\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment0.text=\r\n\ Enumeration\ class\ Size\ -\ write\ a\ description\ of\ the\ enum\ class\ here\r\n\r\n\ @author\ (your\ name\ here)\r\n\ @version\ (version\ number\ or\ date\ here)\r\n
 comment1.params=minValue\ maxValue\ description\ code
 comment1.target=Size(int,\ int,\ java.lang.String,\ char)
 comment2.params=
